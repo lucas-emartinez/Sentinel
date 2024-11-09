@@ -1,0 +1,22 @@
+{
+    "sn": "",
+    "inference": {
+        "activated": {
+            "status": false,
+            "updated_at": "",
+            "updated_by": ""
+        },
+        "threshold": 0.69
+    },
+    "bot": {
+        "subscribers": [],
+        "token": ""
+    },
+    "network_settings": {
+        "ip": "",
+        "port": 554,
+        "protocol": "",
+        "username": "",
+        "password": ""
+    }
+}
